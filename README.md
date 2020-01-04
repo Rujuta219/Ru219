@@ -11,3 +11,4 @@ Target gas has to provide good electron amplification (mixtures) Trigger generat
 Inverse kinematics reactions in solid targets (probe) Target-like particle has little energy to leave target material
 Compromise between resolution and number of nuclei in target (resolution goes against luminosity)
 ATTPC Concept : Tilt relative to beam axis to increase accuracy for small angles
+Active Target TPC gets us high intensity and low energy beam to produce high resolution results.
