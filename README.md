@@ -2,7 +2,7 @@
 #Trial Machine learning model (CNN) on Mg22 data.
 The jupyter notebook ATTPC_Classify_updated contains the updated model.
 
-This project has a lot of scope of imporvement as differnet parameters, lareger varied datasets can be tried for better accuracy. 
+This project has a lot of scope of improvement as different parameters, larger varied datasets can be tried for better accuracy. 
 
 ___________
 ATTPCROOT is a ROOT-based (root.cern.ch) framework to analyze data of the ATTPC detector (Active Target Time Projection Chamber) and the p-ATTPC (Prototype). 
